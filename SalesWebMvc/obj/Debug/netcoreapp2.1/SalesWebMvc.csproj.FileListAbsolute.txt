@@ -7,7 +7,6 @@ R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\bin\D
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
-R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.GeneratedMSBuildEditorConfig.editorconfig
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
@@ -34,3 +33,5 @@ R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\D
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
+R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
