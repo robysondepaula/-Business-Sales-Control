@@ -38,3 +38,5 @@ R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\D
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
+R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
