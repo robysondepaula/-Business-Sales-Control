@@ -21,5 +21,10 @@ namespace SalesWebMvc.Services
             return _context.Seller.ToList();
         }//at the moment this is syncrhonic
 
+        public void Insert(Seller obj)
+        {
+            _context.Add(obj);
+            _context.SaveChanges();
+        }
     }
 }
