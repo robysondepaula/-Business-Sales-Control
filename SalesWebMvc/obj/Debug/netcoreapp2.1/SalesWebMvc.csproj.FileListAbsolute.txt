@@ -41,7 +41,6 @@ R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\D
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
-R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
 R:\Documents\Documentos\Code\MVC Interview\project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
